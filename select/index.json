@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Otro Atardecer",
+  "base_artist": "Bad Bunny & The Marías",
+  "createdAt": "2026-02-24T17:39:41.320919Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Otro Atardecer",
+      "artist": "Bad Bunny feat. The Marías",
+      "has_synced": true,
+      "path": "select/01_Otro_Atardecer_Bad_Bunny_feat._The_Marías.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Otro Atardecer",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/02_Otro_Atardecer_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Otro Atardecer\u0000",
+      "artist": "Bad Bunny\u0000",
+      "has_synced": true,
+      "path": "select/03_Otro_Atardecer\u0000_Bad_Bunny\u0000.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Otro Atardecer",
+      "artist": "Bad Bunny; The Marías",
+      "has_synced": true,
+      "path": "select/04_Otro_Atardecer_Bad_Bunny;_The_Marías.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Otro Atardecer",
+      "artist": "Bad Bunny, The Marías",
+      "has_synced": true,
+      "path": "select/05_Otro_Atardecer_Bad_Bunny,_The_Marías.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Otro Atardecer Ft. The Marías",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/06_Otro_Atardecer_Ft._The_Marías_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Otro Atardecer",
+      "artist": "Bad Bunny • The Marías",
+      "has_synced": true,
+      "path": "select/07_Otro_Atardecer_Bad_Bunny_•_The_Marías.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Otro atardecer feat. The Marías",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/08_Otro_atardecer_feat._The_Marías_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Otro Atardecer",
+      "artist": "The Marías",
+      "has_synced": true,
+      "path": "select/09_Otro_Atardecer_The_Marías.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Otro Atardecer (360° Visualizer) | Un Verano Sin Ti (feat. The Marías)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/10_Otro_Atardecer_(360°_Visualizer)___Un_Verano_Sin_Ti_(feat._The_Marías)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Otro Atardecer",
+      "artist": "Bad Bunny • The Marías",
+      "has_synced": true,
+      "path": "select/11_Otro_Atardecer_Bad_Bunny_•_The_Marías.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Otro Atardecer",
+      "artist": "Bad Bunny & The Marías",
+      "has_synced": true,
+      "path": "select/12_Otro_Atardecer_Bad_Bunny_&_The_Marías.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Otro Atardecer (360° Visualizer) | Un Verano Sin Ti (feat. The Marías)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/13_Otro_Atardecer_(360°_Visualizer)___Un_Verano_Sin_Ti_(feat._The_Marías)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "otro atardecer",
+      "artist": "bad bunny/the mar�as",
+      "has_synced": true,
+      "path": "select/14_otro_atardecer_bad_bunny_the_mar�as.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Otro atardecer",
+      "artist": "Lou Cornago",
+      "has_synced": true,
+      "path": "select/15_Otro_atardecer_Lou_Cornago.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Otro Atardecer",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/16_Otro_Atardecer_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "OTRO ATARDECER SIN TI :(",
+      "artist": "Chitos",
+      "has_synced": true,
+      "path": "select/17_OTRO_ATARDECER_SIN_TI__(_Chitos.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Otro Atardecer",
+      "artist": "Aca Seca Trio",
+      "has_synced": true,
+      "path": "select/18_Otro_Atardecer_Aca_Seca_Trio.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bad Bunny - Otro Atardecer (Feat. The Marías)",
+      "artist": "DNA MUSIC 🌎",
+      "has_synced": true,
+      "path": "select/19_Bad_Bunny_-_Otro_Atardecer_(Feat._The_Marías)_DNA_MUSIC_🌎.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Otro Atardecer (With The Marias)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/20_Otro_Atardecer_(With_The_Marias)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Otro Atardecer",
+      "artist": "Bad Bunny & The Marías",
+      "has_synced": false,
+      "path": "select/pl_01_Otro_Atardecer_Bad_Bunny_&_The_Marías.txt"
+    }
+  ]
+}
